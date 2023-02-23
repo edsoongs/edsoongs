@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Edson Barbosa Guimarães
 
-<!--
-**edsoongs/edsoongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Transição de carreira para Desenvolvedor Front-end
+- 🌱 Estudando HTML5, CSS3 e Javascript ...
+##
 
-Here are some ideas to get you started:
+![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsoongs&show_icons=true&theme=peace)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsoongs&layout=compact)](https://github.com/edsoongs/github-readme-stats)
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height="42em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+##
+
+
+          
+
+          
+
+
