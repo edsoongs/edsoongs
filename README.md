@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Edson Barbosa Guimarães
 
-- 🔭 Transição de carreira para Desenvolvedor Front-end
-- 🌱 Estudando HTML5, CSS3 e Javascript ...
+- 🔭 Desenvolvedor Front-end
+- 🌱 Estudando HTML5, CSS3, Javascript e ReactJs...
 ##
 
 ![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsoongs&show_icons=true&theme=peace)
